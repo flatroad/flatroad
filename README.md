@@ -5,7 +5,15 @@
 
 ![Image](https://github.com/user-attachments/assets/3cc5cdad-3ecb-4e2d-9b27-c52c1ab8dcdb)
 
-## 👨‍👩‍👧‍👦 참여 중인 프로젝트 및 조직
-- [ItTakesTwo-Metaverse](https://github.com/ItTakesTwo-Metaverse) (Owner)
-- [PaperPlanesMTVS](https://github.com/PaperPlanesMTVS) (Owner)
-- [metaverse-SeeTheStarWithMe](https://github.com/metaverse-SeeTheStarWithMe) (Owner)
+## 👨‍👩‍👧‍👦 참여 중인 프로젝트 및 조직 
+  ### Unreal 
+- 🚀 [ItTakesTwo-Metaverse](https://github.com/ItTakesTwo-Metaverse) (Owner)
+- 🎮 [PaperPlanesMTVS](https://github.com/PaperPlanesMTVS) (Owner)
+- 🌌 [metaverse-SeeTheStarWithMe](https://github.com/metaverse-SeeTheStarWithMe) (Owner)
+- 🧪 [Mtvs-FinalProject](https://github.com/Mtvs-FinalProject) (Owner)
+- 🎯 [tears-of-meta](https://github.com/tears-of-meta) (Owner)
+- 🧩 [Potenup](https://github.com/Potenup) (Owner)
+  
+
+  ### Web
+- 🔥 [imCharmander](https://github.com/imCharmander) (Owner)
