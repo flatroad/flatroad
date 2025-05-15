@@ -5,6 +5,9 @@
 
 ![Image](https://github.com/user-attachments/assets/3cc5cdad-3ecb-4e2d-9b27-c52c1ab8dcdb)
 
+## 🐤 velog
+[flatroad](https://velog.io/@flatroad)
+
 ## 👨‍👩‍👧‍👦 참여 중인 프로젝트 및 조직 
   ### Unreal 
 - 🚀 [ItTakesTwo-Metaverse](https://github.com/ItTakesTwo-Metaverse) (Owner)
