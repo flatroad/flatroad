@@ -1,6 +1,5 @@
 ## 안녕하세요.
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatroad&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rak230)](https://solved.ac/rak230)
 
 <img width="304" alt="image" src="https://github.com/user-attachments/assets/6c8a3139-ea29-444f-9389-87da1e1f23fd" />
